@@ -1,4 +1,4 @@
-# QLoRA-Fine-Tuning
+# QLoRA Fine-Tuning
 I used [Quantized LoRA (QLoRA)] to adapt facebook/opt-125m on a ~2,280-sample subset of Databricks Dolly-15k (instruction-response format).
 
 ## Key achievements:
